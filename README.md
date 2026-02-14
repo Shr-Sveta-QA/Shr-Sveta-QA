@@ -1,11 +1,11 @@
 ## Привет 👋
 
 ### Меня зовут Света, я QA-инженер!
-<img align="right" width="350" height="350" src="https://github.com/belyakovko/belyakovko/blob/c6e0d1cf9dc6ddc9d59bd2c0bab56a88dfa623de/assets/background__18748.png" />
+<img align="right" width="400" height="400" src="https://github.com/Shr-Sveta-QA/Shr-Sveta-QA/blob/main/assets/1.png" />
 
 🔍 **Специализируюсь** на ручном тестировании. Проверяю интерфейсы, API, базы данных, ищу несоответствия там, где всё должно работать идеально.
 
-📝 **В баг-репортах ценю чёткость,** завожу их так, чтобы разработчик открыл, кивнул и пошёл чинить, без уточнений в лс.
+📝 **В баг-репортах ценю чёткость:** завожу их так, чтобы команда могла сразу приступить к работе над фиксом, не отвлекаясь на уточнения в личке.
 
 🛠️ **Выполняю ручное тестирование,** при этом стремлюсь автоматизировать рутинные процессы (Python, Cypress).
 
@@ -44,8 +44,6 @@
     <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/ad25cbf701c5c4aa106236ac27655efedb9c61fc/assets/logo_http.png" /></td>
     <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/ad25cbf701c5c4aa106236ac27655efedb9c61fc/assets/logo_html.png" /></td>
     <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/ad25cbf701c5c4aa106236ac27655efedb9c61fc/assets/logo_css3.png" /></td>
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/c5db2d1f2c634faffcd09a45b59cd2e808641e38/assets/logo_javascript.png" /></td>
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/c5db2d1f2c634faffcd09a45b59cd2e808641e38/assets/logo_php.png" /></td>
     <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/ad25cbf701c5c4aa106236ac27655efedb9c61fc/assets/logo_firebase.png" /></td>
     <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/ad25cbf701c5c4aa106236ac27655efedb9c61fc/assets/logo_androidstudio.png" /></td>
     <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/ad25cbf701c5c4aa106236ac27655efedb9c61fc/assets/logo_charles.png" /></td>
@@ -55,8 +53,6 @@
     <td>HTTP</td>
     <td>HTML</td>
     <td>CSS</td>
-    <td>JavaScript</td>
-    <td>PHP</td>
     <td>Firebase</td>
     <td>Android Studio</td>
     <td>Charles</td>
